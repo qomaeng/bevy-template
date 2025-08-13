@@ -1,0 +1,6 @@
+use_field_init_shorthand = true
+newline_style = "Unix"
+style_edition = "2024"
+
+# imports_granularity = "Crate"
+# normalize_comments = true
